@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # HealthSynergy-Hospital-Data-Visualization
 =======
 # Data-Visualization-Final-Project
